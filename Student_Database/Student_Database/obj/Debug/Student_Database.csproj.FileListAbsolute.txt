@@ -1,0 +1,9 @@
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\bin\Debug\Student_Database.exe.config
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\bin\Debug\Student_Database.exe
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\bin\Debug\Student_Database.pdb
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.csprojResolveAssemblyReference.cache
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.Form1.resources
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.Properties.Resources.resources
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.csproj.GenerateResource.Cache
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.exe
+c:\users\james\onedrive\documents\visual studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.pdb
